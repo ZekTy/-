@@ -4,5 +4,7 @@ proxies:
   - {name: 🇭🇰 香港实验性 深联, server: 163.177.58.153, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
   - {name: 🇭🇰 香港实验性 深联pre, server: 163.177.58.152, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
   - {name: 🇭🇰 香港实验性 上电, server: 203.156.197.182, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
+  - {name: 🇭🇰 香港实验性 上电pre, server: 203.156.197.178, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
   - {name: 🇭🇰 香港实验性 上移, server: 117.186.219.2, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
+  - {name: 🇭🇰 香港实验性 上移pre, server: 117.186.219.34, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
   - {name: 🇭🇰 香港实验性 京华, server: 117.78.47.20, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}

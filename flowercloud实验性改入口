@@ -1,4 +1,3 @@
-proxies:
   - {name: 🇭🇰 🌸 香港实验性 前海IXP1, server: 202.46.227.9, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
   - {name: 🇭🇰 🌸 香港实验性 深圳联通1, server: 163.177.58.153, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}
   - {name: 🇭🇰 🌸 香港实验性 上海电信, server: 203.156.197.182, port: 10001, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 9fbed59f5f.m.ctrip.com}, udp: true}

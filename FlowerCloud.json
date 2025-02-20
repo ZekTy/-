@@ -1,0 +1,24 @@
+[
+  {
+    "skip-cert-verify": true,
+    "sni": "m.ctrip.com",
+    "udp": true,
+    "type": "trojan",
+    "password": "2C9F73B9-65DD-A8C5-0274-ACC303230E3F",
+    "server": "202.46.227.9",
+    "port": 10101,
+    "name": "香港实验性 IEPL 中继 1",
+    "tls": true,
+    "_subName": "FlowerCloud",
+    "_subDisplayName": "",
+    "proxy": {
+      "name": "🇭🇰 Bage HK-^_^",
+      "server": "bage.inklazy.com",
+      "port": 19982,
+      "type": "ss",
+      "cipher": "2022-blake3-aes-256-gcm",
+      "password": "YfOFg7x5i5g+nj8+jtLSQSH2Oq5n19GxaSKuI1R87Uo=:7PcOZaqJzyhlETgxpfYEfd/kNYIek7Ymu6Ycy9zY4yk=",
+      "tfo": false,
+      "udp": true
+    }
+]

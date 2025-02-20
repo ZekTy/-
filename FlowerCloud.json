@@ -1,4 +1,3 @@
-[
   {
     "skip-cert-verify": true,
     "sni": "m.ctrip.com",
@@ -21,4 +20,3 @@
       "tfo": false,
       "udp": true
     }
-]
